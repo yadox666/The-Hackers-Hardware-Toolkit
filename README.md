@@ -57,8 +57,7 @@ Feel free to open a bug for correcting any description, any misspelled word, or 
 License
 ----
 
-MIT
-
+Mozilla Public License 2.0 
 
 **Free for hackers, paid for commercial use!**
 

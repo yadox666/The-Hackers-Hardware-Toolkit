@@ -18,7 +18,7 @@ This is NOT a commercial catalog, even if it looks like that. I have no personal
 
 **Caution**: *This catalog can cause serious problems at home with your couple. Do not abuse it! Take some minutes before clicking on the "buy now" button!*
 
-You are welcome to [contribute](https://github.com/yadox666/The-hardware-hacking-toolkit/blob/master/contributing.md#contribution-guidelines) by opening a bug. 
+You are welcome to [contribute](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/contributing.md#contribution-guidelines) by opening a bug. 
 
 
 ## Categories
@@ -34,14 +34,14 @@ You are welcome to [contribute](https://github.com/yadox666/The-hardware-hacking
 ### Contents
 Category  |  Description
 ----  |  ----
-[Mini Computers](https://www.badbinaries.com) | a simple opendir full of quality docs and notes on a variety of security topics; good walkthroughs on malware trafic analysis and sysadmin stuff.
-[RF](http://pages.cs.wisc.edu/~ace/cs642-spring-2016.html) | academic content, full semester course, includes assigned readings, homework and github refs for exploit examples. NO VIDEO LECTURES.
-[Wi-Fi](https://www.cybrary.it/) | coursera style website, lots of user-contributed content, account required, content can be filtered by experience level
-[RFID / NFC](https://www.samsclass.info/) | Academic content, 8 full courses with videos from a quirky instructor sam, links to research, defcon materials and other recommended training/learning
-[HID / Keyloggers](https://ex.whitehat.academy) | 32 labs, easy account sign in with github credentials; this is no longer free content
-[Network](https://www.hak5.org/) | podcast-style videos covering various topics, has a forum, "metasploit-minute" video series could be useful
-[BUS](http://howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html) | blog-style instruction, includes: slides, videos, homework, discussion. No login required.
-[Accesories](http://www.amanhardikar.com/mindmaps.html) |   Information Security related Mind Maps
+[Mini Computers](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/) | The best selection of handheld computers, mini motherboards, etc. The best tool to handle all the other hardware peripherals for your projects.
+[RF](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/) | The best tools for hacking, analyzing, modifiying or replaying any Radio Frequency signal. Tools for hacking wireless controllers, GPS, Cell phones, Satellite signals, etc.
+[Wi-Fi](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/) | The tookit for a Wi-Fi hacker like me. This tools allow to monitor mode sniffing, enumerating, injecting, etc. Some tools like deauther, and amplifiers should be only used in lab environments.
+[RFID / NFC](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/) | A nice collection of beginners and proffesional tools for researching about RFID and NFC technologies based in LF (low frequency) and HF (high frequency) contactless cards, tags and badgets. Hacking tools for access controls, garages, shops, etc.
+[HID / Keyloggers](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/) | HID (hardware input devices) like mouses and USB keyboards are open to a keystroke injection attack. Many of these devices like rubberducky, badusb, badusb ninja, etc. are increasing in capabilities and effectivity. Hardware keyloggers are still one of the best option for credentials capture.
+[Network](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/) | Small routers, taps, and other similar network devices based in Linux can be the perfect companion for an internal pentester. Here you will find many OpenWRT / LEDE based mini routers that can be customized for network intrusion.
+[BUS](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/) | Harware hacking is one the most beautifull hacking categories. Since it's also one of the most complicated ones. There are many different bus technologies and protocols and a hardware hacker must own a lot of tools for discovering and 'speaking' with such buses. Some of the categories included here are: car hacking, motherboard and pcb hacking, industrial hacking, etc.
+[Accesories](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/) |   Not only the previous tools are enough for creating your ouwn hacking device. If you are going to build a functional system you'll also need a lot of accesories like batteries, chargers, gps, sensors, DC-DC, lab equipment, etc.
 
 ![First printed version of the catalog](https://pbs.twimg.com/media/D5eKoHnXkAEfIfL?format=jpg&name=large)
 

@@ -5,20 +5,20 @@
  	<br>
 </h1>
 
-# The Hacker's Hardware Toolkit  ![Awesome community](https://img.shields.io/badge/awesome-hacking-green.svg) ![Awesome Hacking](https://img.shields.io/badge/hardware-toolkit-red.svg)
+# The Hacker's Hardware Toolkit  ![Awesome community](https://img.shields.io/badge/awesome-hacking-green.svg) ![Awesome Hacking](https://img.shields.io/badge/hardware-toolkit-red.svg) ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
 
-The best collection of hardware gadgets for Red Team hackers and security researchers!
+The best collection of hardware gadgets for Red Team hackers, pentesters and security researchers!
 It  includes more than one hundred of tools classified in eight different categories, to make it easier to search and to browse them.
 
-![Any hacker has a lot of tools, like me!](https://pbs.twimg.com/media/D5Y2EBmXsAA8lnt?format=jpg&name=4096x4096)
+![Any hacker has a lot of tools, like I do!](https://pbs.twimg.com/media/D5Y2EBmXsAA8lnt?format=jpg&name=4096x4096)
 
 <h2>Disclaimer:</h2>
 
 This is NOT a commercial catalog, even if it looks like that. I have no personal interest in selling any of the shown tools. I just want to share many of the tools which I have used for different hacking purposes. Any tool not available to be bought online, will be excluded from the catalog. All the tools show an approximate price and an online shop where you can buy it, since feel free to check for other better or cheaper shops in Internet. All the OCR codes include the link to an online shop which ships to Europe and of course are not malicious.
 
-**Caution**: *This catalog can cause serious problems at home with your couple. Do not abuse it! Take some minutes before clicking on the "buy now" button!*
+Download the catalog in [PDF](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/the-hackers-hardware-toolkit.pdf) format or in [Word](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/the-hackers-hardware-toolkit.docx) format.
 
-You are welcome to [contribute](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/contributing.md#contribution-guidelines) by opening a bug. 
+**Caution**: *This catalog can cause serious problems at home with your couple. Do not abuse it! Take some minutes before clicking on the "Buy Now" button!*
 
 
 ## Categories
@@ -43,14 +43,21 @@ Category  |  Description
 [BUS](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/) | Harware hacking is one the most beautifull hacking categories. Since it's also one of the most complicated ones. There are many different bus technologies and protocols and a hardware hacker must own a lot of tools for discovering and 'speaking' with such buses. Some of the categories included here are: car hacking, motherboard and pcb hacking, industrial hacking, etc.
 [Accesories](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/) |   Not only the previous tools are enough for creating your ouwn hacking device. If you are going to build a functional system you'll also need a lot of accesories like batteries, chargers, gps, sensors, DC-DC, lab equipment, etc.
 
-![First printed version of the catalog](https://pbs.twimg.com/media/D5eKoHnXkAEfIfL?format=jpg&name=large)
+![First printed version of the catalog presented in HITB Amsterdam 2019](https://pbs.twimg.com/media/D5eKoHnXkAEfIfL?format=jpg&name=large)
 
 ### Contribution:
-Feel free to open a bug for correcting any description, any misspelled word, or just for including your own comments. But, if any comment seems to have a commercial interest it will be immediately dismissed. I want to keep it clean from external interests.
+Feel free to open a bug for correcting any description, any misspelled word, or just for including your own comments. But, if any comment seems to have a commercial interest it will be immediately dismissed. I want to keep it clean from external interests. You are welcome to contribute [contributing.md](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/contributing.md#contribution-guidelines) by opening a bug. 
 
 ### To-do:
  - Add your feedback
  - Add your suggestions
+
+### Need more info?
+
+Follow me on GitHub or on your favorite social media to get daily updates on interesting security news and GitHub repositories related to Security.
+
+ - Twitter: [@yadox](https://twitter.com/yadox)
+ - Linkedin: [Yago Hansen](https://www.linkedin.com/in/yadox/)
 
 
 

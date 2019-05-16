@@ -21,7 +21,7 @@ It  includes more than one hundred of tools classified in eight different catego
 
 This is NOT a commercial catalog, even if it looks like that. I have no personal interest in selling any of the shown tools. I just want to share many of the tools which I have used for different hacking purposes. Any tool not available to be bought online, will be excluded from the catalog. All the tools show an approximate price and an online shop where you can buy it, since feel free to check for other better or cheaper shops in Internet. All the OCR codes include the link to an online shop which ships to Europe and of course are not malicious.
 
-Download the catalog in [PDF](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/TheHackersHardwareToolkit.pdf) format or in [Word](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/the-hackers-hardware-toolkit.docx) format.
+Download the catalog in [PDF](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/TheHackersHardwareToolkit.pdf) format.
 
 **Caution**: *This catalog can cause serious problems at home with your couple. Do not abuse it! Take some minutes before clicking on the "Buy Now" button!*
 

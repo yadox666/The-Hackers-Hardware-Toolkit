@@ -56,6 +56,7 @@ Feel free to open a bug for correcting any description, any misspelled word, or 
 ### To-do:
  - Add your feedback
  - Add your suggestions
+ - Add an unboxing / getting started section on many items
 
 ### Need more info?
 
@@ -64,7 +65,11 @@ Follow me on GitHub or on your favorite social media to get daily updates on int
  - Twitter: [@yadox](https://twitter.com/yadox)
  - Linkedin: [Yago Hansen](https://www.linkedin.com/in/yadox/)
 
+### Want to get it paperback?
 
+I have also published this book in Amazon, because many people asked about getting a cheap paperback format. I kept the same policy to distribute it in a non-profit mode, so I kept the price as low as posible. It is available through all the Amazon international sites for many countries. If not available to ship to your country, just feel free to download it and print it using any cheap printing service.
+
+ - Amazon.com: [amazon.com](https://amzn.com/1099209463)
 
 License
 ----

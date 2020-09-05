@@ -57,7 +57,8 @@ Follow me on GitHub or on your favorite social media to get daily updates on int
 
  - Twitter: [@yadox](https://twitter.com/yadox)
  - Linkedin: [Yago Hansen](https://www.linkedin.com/in/yadox/)
-
+ - Personal Web: [Yago Hansen](https://yagohansen.com/)
+ 
 ### Want to get it paperback?
 
 I have also published this book in Amazon, because many people asked about getting a cheap paperback format. I kept the same policy to distribute it in a non-profit mode, so I kept the price as low as posible. It is available through all the Amazon international sites for many countries. If it's not available for shipping to your country, just feel free to download and print it using your own printing service. Book ISBN-10: 1099209463.

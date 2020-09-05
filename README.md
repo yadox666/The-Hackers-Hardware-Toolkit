@@ -1,14 +1,7 @@
-<h1 align="center">
- 	<br>
- 	  <img width="200" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
-  <br>
-</h1>
-
-
 # The Hacker's Hardware Toolkit  ![Awesome community](https://img.shields.io/badge/awesome-hacking-green.svg) ![Awesome Hacking](https://img.shields.io/badge/hardware-toolkit-red.svg) ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 <h1 align="center">
  	<br>
-    <img width="200" src="./cover.png" alt="cover">
+    <img src="./cover.png" alt="cover">
   <br>
 </h1>
 
